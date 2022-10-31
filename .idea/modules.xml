@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GetUserWithDepartment_Eureka_ServiceRegistry.iml" filepath="$PROJECT_DIR$/.idea/GetUserWithDepartment_Eureka_ServiceRegistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service Of Department/Service-Of-Department/Service-Of-Department.iml" filepath="$PROJECT_DIR$/Service Of Department/Service-Of-Department/Service-Of-Department.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service Of User/Service-Of-User/Service-Of-User.iml" filepath="$PROJECT_DIR$/Service Of User/Service-Of-User/Service-Of-User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service-Registry-Eureka/Service-Registry-Eureka/Service-Registry-Eureka.iml" filepath="$PROJECT_DIR$/Service-Registry-Eureka/Service-Registry-Eureka/Service-Registry-Eureka.iml" />
+    </modules>
+  </component>
+</project>
